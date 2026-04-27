@@ -1,7 +1,7 @@
 import json
 
 
-# Forst step is Load data from JSON file
+# First step is Load data from JSON file
 
 def load_data(filename):
     with open(filename, "r") as file:
